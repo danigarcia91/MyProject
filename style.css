@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #fce4ec, #e6e6fa, #dff5f5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.tarjeta {
+    background-color: white;
+    padding: 40px;
+    width: 320px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px #d8c8df;
+}
+
+h1 {
+    color: #bd8bbd;
+}
+
+p {
+    color: #7186a6;
+    background-color: #fceef5;
+    padding: 20px;
+    border-radius: 12px;
+    line-height: 1.5;
+}
