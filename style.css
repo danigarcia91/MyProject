@@ -29,3 +29,8 @@ p {
     border-radius: 12px;
     line-height: 1.5;
 }
+
+.frase {
+    color: #bd8bbd;
+    font-weight: bold;
+}
